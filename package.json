@@ -1,7 +1,7 @@
 {
   "name": "styled-reset",
   "description": "styled-reset",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Zac Anger",
     "email": "zac@zacanger.com",
@@ -33,7 +33,10 @@
   "engines": {
     "node": ">=6.0.0"
   },
+  "files": [
+    "lib/index.js"
+  ],
   "peerDependencies": {
-    "styled-components": "^2.0.0"
+    "styled-components": "2.0.0"
   }
 }
