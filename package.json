@@ -1,17 +1,16 @@
 {
   "name": "styled-reset",
   "description": "styled-reset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Zac Anger",
     "email": "zac@zacanger.com",
     "url": "http://zacanger.com"
   },
   "license": "WTFPL",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "start": "node index",
-    "test": ""
+    "build": "babel src/ -d lib/"
   },
   "homepage": "https://github.com/zacanger/styled-reset#readme",
   "repository": {
@@ -20,12 +19,21 @@
   },
   "bugs": "https://github.com/zacanger/styled-reset/issues",
   "keywords": [
-    "",
-    "styled-reset"
+    "css",
+    "reset",
+    "reset.css",
+    "styled-components"
   ],
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "6.24.1",
+    "babel-preset-env": "1.6.0",
+    "babel-preset-stage-3": "6.24.1"
+  },
   "engines": {
     "node": ">=6.0.0"
+  },
+  "peerDependencies": {
+    "styled-components": "^2.0.0"
   }
 }
