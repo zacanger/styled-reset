@@ -3,6 +3,9 @@
 [reset.css](https://meyerweb.com/eric/tools/css/reset/) for
 [styled-components](https://github.com/styled-components/styled-components).
 
+Also see [styled-normalize](https://www.npmjs.com/package/styled-normalize)
+from [LestaD](https://github.com/LestaD).
+
 --------
 
 ## Installation:
