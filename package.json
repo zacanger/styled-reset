@@ -26,8 +26,8 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "babel-plugin-transform-es2015-modules-commonjs": "6.24.1",
-    "babel-preset-env": "1.6.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "6.26.0",
+    "babel-preset-env": "1.6.1",
     "babel-preset-stage-3": "6.24.1"
   },
   "engines": {
@@ -37,6 +37,6 @@
     "lib/index.js"
   ],
   "peerDependencies": {
-    "styled-components": "2.0.0"
+    "styled-components": ">=2.0.0"
   }
 }
