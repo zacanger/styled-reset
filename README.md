@@ -47,4 +47,4 @@ reset.css is public domain (unlicensed).
 
 ## License:
 
-[WTFPL](./LICENSE.md)
+[MIT](./LICENSE.md)
