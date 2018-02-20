@@ -9,8 +9,15 @@
   },
   "license": "MIT",
   "main": "lib/index.js",
+  "files": [
+    "lib/index.js"
+  ],
   "scripts": {
-    "build": "babel src/ -d lib/"
+    "build": "babel src/ -d lib/",
+    "prebuild": "npm t",
+    "preversion": "npm run build",
+    "test": "npm run test:lint",
+    "test:lint": "eslint -c .eslintrc.json src"
   },
   "homepage": "https://github.com/zacanger/styled-reset#readme",
   "repository": {
@@ -26,17 +33,22 @@
   ],
   "dependencies": {},
   "devDependencies": {
+    "babel-eslint": "8.2.2",
     "babel-plugin-transform-es2015-modules-commonjs": "6.26.0",
     "babel-preset-env": "1.6.1",
-    "babel-preset-stage-3": "6.24.1"
+    "babel-preset-stage-3": "6.24.1",
+    "eslint": "4.18.0",
+    "eslint-config-babel": "7.0.2",
+    "eslint-config-jane": "0.10.0",
+    "eslint-plugin-babel": "4.1.2",
+    "eslint-plugin-promise": "3.6.0",
+    "eslint-plugin-react": "7.7.0",
+    "eslint-plugin-unicorn": "4.0.2"
   },
   "engines": {
     "node": ">=6.0.0"
   },
-  "files": [
-    "lib/index.js"
-  ],
   "peerDependencies": {
-    "styled-components": ">=2.0.0"
+    "styled-components": ">=2.0.0 || >=3.0.0"
   }
 }
