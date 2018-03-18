@@ -39,6 +39,12 @@ const App = () => {
 export default App
 ```
 
+`reset` is also available as a named export:
+
+```javascript
+import { reset } from 'styled-reset'
+```
+
 ## Credits
 
 All credit goes to Eric Meyer for reset.css.
