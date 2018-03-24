@@ -31,9 +31,7 @@
     "reset.css",
     "styled-components"
   ],
-  "dependencies": {
-    "reset-css": "3.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-eslint": "8.2.2",
@@ -47,7 +45,8 @@
     "eslint-plugin-import": "2.9.0",
     "eslint-plugin-promise": "3.7.0",
     "eslint-plugin-react": "7.7.0",
-    "eslint-plugin-unicorn": "4.0.2"
+    "eslint-plugin-unicorn": "4.0.2",
+    "reset-css": "3.0.0"
   },
   "engines": {
     "node": ">=6.0.0"
