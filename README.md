@@ -51,6 +51,11 @@ All credit goes to Eric Meyer for reset.css.
 
 reset.css is public domain (unlicensed).
 
+* [@empjStang](https://github.com/empjStang) for suggesting a named export and
+  TypeScript support
+* [@alexandernanberg](https://github.com/alexandernanberg) for using the
+  [reset-css](https://www.npmjs.com/package/reset-css) package under the hood
+
 ## License:
 
 [MIT](./LICENSE.md)
