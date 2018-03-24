@@ -4,7 +4,7 @@
 [styled-components](https://github.com/styled-components/styled-components).
 
 Also see [styled-normalize](https://www.npmjs.com/package/styled-normalize)
-from [LestaD](https://github.com/LestaD).
+from [Sergey Sova](https://github.com/sergeysova).
 
 --------
 
