@@ -55,6 +55,8 @@ reset.css is public domain (unlicensed).
   TypeScript support
 * [@alexandernanberg](https://github.com/alexandernanberg) for using the
   [reset-css](https://www.npmjs.com/package/reset-css) package under the hood
+* [@saadq](https://github.com/saadq) for fixing included files so TypeScript
+  works.
 
 ## License:
 
