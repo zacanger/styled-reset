@@ -1,6 +1,6 @@
 {
   "root": true,
-  "extends": "eslint-config-jane",
+  "extends": "eslint-config-zacanger",
   "globals": {
     "preval": true
   }
