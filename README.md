@@ -15,28 +15,34 @@ from [Sergey Sova](https://github.com/sergeysova).
 ## Usage:
 
 ```javascript
-// base-styles.js
-import { injectGlobal } from 'styled-components'
+import * as React from 'react'
+import { createGlobalStyle } from 'styled-components'
 import reset from 'styled-reset'
 
-const baseStyles = () => injectGlobal`
+const GlobalStyle = createGlobalStyle`
   ${reset}
   /* other styles */
 `
 
-export default baseStyles
-
-// app.js
-import baseStyles from './base-styles'
-
-const App = () => {
-  baseStyles()
-  return (
-    <div>Hi!</div>
-  )
+const App = () => (
+  <React.Fragment>
+    <GlobalStyle />
+    <div>Hi, I'm an app!</div>
+  </React.Fragment>
 }
 
 export default App
+```
+
+If you're using Styled Components version 3.x or 2.x, you'll need to use the
+`injectGlobal` api instead:
+
+```javascrript
+import { injectGlobal } from 'styled-components'
+import reset from 'styled-reset'
+injectGlobal`
+  ${reset}
+`
 ```
 
 `reset` is also available as a named export:
