@@ -1,8 +1,10 @@
 {
-  "presets": [ "stage-3", "env" ],
+  "presets": [
+    "@babel/preset-env"
+  ],
   "plugins": [
     "preval",
-    "transform-es2015-modules-commonjs"
+    "@babel/plugin-transform-modules-commonjs"
   ],
   "comments": false
 }
