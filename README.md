@@ -37,7 +37,7 @@ export default App
 If you're using Styled Components version 3.x or 2.x, you'll need to use the
 `injectGlobal` api instead:
 
-```javascrript
+```javascript
 import { injectGlobal } from 'styled-components'
 import reset from 'styled-reset'
 injectGlobal`
