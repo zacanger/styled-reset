@@ -3,7 +3,6 @@
     "@babel/preset-env"
   ],
   "plugins": [
-    "preval",
     "@babel/plugin-transform-modules-commonjs"
   ],
   "comments": false

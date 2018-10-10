@@ -1,0 +1,16 @@
+[ignore]
+.*/lib/.*
+.*/node_modules/.*
+
+[include]
+.*/src/.*
+
+[libs]
+flow-typed
+
+[lints]
+
+[options]
+experimental.const_params=true
+
+[strict]
