@@ -16,7 +16,7 @@ from [Sergey Sova](https://github.com/sergeysova).
 
 ## Usage:
 
-```javascript
+```jsx
 import * as React from 'react'
 import { createGlobalStyle } from 'styled-components'
 import reset from 'styled-reset'
