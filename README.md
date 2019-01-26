@@ -1,6 +1,8 @@
 # styled-reset
 
 [![npm version](https://img.shields.io/npm/v/styled-reset.svg)](https://npm.im/styled-reset) [![CircleCI](https://circleci.com/gh/zacanger/styled-reset.svg?style=svg)](https://circleci.com/gh/zacanger/styled-reset)
+[![Backers on Open Collective](https://opencollective.com/styled-reset/backers/badge.svg)](#backers) 
+[![Sponsors on Open Collective](https://opencollective.com/styled-reset/sponsors/badge.svg)](#sponsors) 
 
 [reset.css](https://meyerweb.com/eric/tools/css/reset/) for
 [styled-components](https://github.com/styled-components/styled-components).
@@ -65,6 +67,36 @@ reset.css is public domain (unlicensed).
   [reset-css](https://www.npmjs.com/package/reset-css) package under the hood
 * [@saadq](https://github.com/saadq) for fixing included files so TypeScript
   works.
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/zacanger/styled-reset/graphs/contributors"><img src="https://opencollective.com/styled-reset/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/styled-reset#backer)]
+
+<a href="https://opencollective.com/styled-reset#backers" target="_blank"><img src="https://opencollective.com/styled-reset/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/styled-reset#sponsor)]
+
+<a href="https://opencollective.com/styled-reset/sponsor/0/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/styled-reset/sponsor/1/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/styled-reset/sponsor/2/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/styled-reset/sponsor/3/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/styled-reset/sponsor/4/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/styled-reset/sponsor/5/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/styled-reset/sponsor/6/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/styled-reset/sponsor/7/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/styled-reset/sponsor/8/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/styled-reset/sponsor/9/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/9/avatar.svg"></a>
+
+
 
 ## License:
 

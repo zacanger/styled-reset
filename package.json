@@ -21,7 +21,8 @@
     "preversion": "npm run build",
     "test": "run-s -s test:lint test:flow",
     "test:flow": "flow check",
-    "test:lint": "eslint -c .eslintrc.json src"
+    "test:lint": "eslint -c .eslintrc.json src",
+    "postinstall": "opencollective-postinstall"
   },
   "homepage": "https://github.com/zacanger/styled-reset#readme",
   "repository": {
@@ -35,7 +36,10 @@
     "reset.css",
     "styled-components"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "opencollective-postinstall": "2.0.1",
+    "opencollective": "^1.0.3"
+  },
   "devDependencies": {
     "@babel/cli": "7.2.3",
     "@babel/core": "7.2.2",
@@ -60,5 +64,9 @@
   "peerDependencies": {
     "styled-components": ">=3.0.0 || >=4.0.0"
   },
-  "typings": "index.d.ts"
+  "typings": "index.d.ts",
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/styled-reset"
+  }
 }
