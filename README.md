@@ -57,29 +57,18 @@ import { reset } from 'styled-reset'
 
 ## Credits
 
-All credit goes to Eric Meyer for reset.css.
-
-reset.css is public domain (unlicensed).
-
-* [@empjStang](https://github.com/empjStang) for suggesting a named export and
-  TypeScript support
-* [@alexandernanberg](https://github.com/alexandernanberg) for using the
-  [reset-css](https://www.npmjs.com/package/reset-css) package under the hood
-* [@saadq](https://github.com/saadq) for fixing included files so TypeScript
-  works.
+All credit goes to Eric Meyer for reset.css. reset.css is public domain (unlicensed).
 
 ## Contributors
 
 This project exists thanks to all the people who contribute. 
 <a href="https://github.com/zacanger/styled-reset/graphs/contributors"><img src="https://opencollective.com/styled-reset/contributors.svg?width=890&button=false" /></a>
 
-
 ## Backers
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/styled-reset#backer)]
 
 <a href="https://opencollective.com/styled-reset#backers" target="_blank"><img src="https://opencollective.com/styled-reset/backers.svg?width=890"></a>
-
 
 ## Sponsors
 
@@ -95,8 +84,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/styled-reset/sponsor/7/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/styled-reset/sponsor/8/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/styled-reset/sponsor/9/website" target="_blank"><img src="https://opencollective.com/styled-reset/sponsor/9/avatar.svg"></a>
-
-
 
 ## License:
 
