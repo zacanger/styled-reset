@@ -1,7 +1,4 @@
 {
   "root": true,
-  "extends": "eslint-config-zacanger",
-  "globals": {
-    "preval": true
-  }
+  "extends": "eslint-config-zacanger"
 }
