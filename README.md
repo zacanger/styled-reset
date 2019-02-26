@@ -20,6 +20,21 @@ from [Sergey Sova](https://github.com/sergeysova).
 
 ```jsx
 import * as React from 'react'
+import { Reset } from 'styled-reset'
+
+const App = () => (
+  <React.Fragment>
+    <Reset />
+    <div>Hi, I'm an app!</div>
+  </React.Fragment>
+)
+```
+
+You can also use the default export or named export (lowercase) in your own
+global style:
+
+```jsx
+import * as React from 'react'
 import { createGlobalStyle } from 'styled-components'
 import reset from 'styled-reset'
 
