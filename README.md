@@ -16,7 +16,11 @@ from [Sergey Sova](https://github.com/sergeysova).
 
 `npm i styled-reset` (use the `-S` flag if you're on npm 4 or earlier).
 
+If you're on styled-components 3.x, please `npm i styled-reset@1.7.1`.
+
 ## Usage:
+
+### Styled Components 4.x
 
 ```jsx
 import * as React from 'react'
@@ -53,8 +57,10 @@ const App = () => (
 export default App
 ```
 
+### Styled Components 3.x
+
 If you're using Styled Components version 3.x or 2.x, you'll need to use the
-`injectGlobal` api instead:
+`injectGlobal` api instead (and install `styled-reset@1.7.1`):
 
 ```javascript
 import { injectGlobal } from 'styled-components'

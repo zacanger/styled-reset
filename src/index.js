@@ -1,6 +1,6 @@
 // @flow
 
-import { css, createGlobalStyle } from 'styled-components'
+import { css } from 'styled-components'
 
 export const reset = css`
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -56,7 +56,5 @@ table {
   border-spacing: 0;
 }
 `
-
-export const Reset = createGlobalStyle`${reset}`
 
 export default reset
