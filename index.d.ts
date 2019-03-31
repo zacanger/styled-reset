@@ -1,5 +1,7 @@
-import { InterpolationValue } from 'styled-components'
+import { InterpolationValue, GlobalComponentStyle, DefaultTheme } from 'styled-components'
 
 declare const reset: InterpolationValue
-export { reset }
+declare const Reset: GlobalComponentStyle<{}, DefaultTheme>
+
+export { reset, Reset }
 export default reset
