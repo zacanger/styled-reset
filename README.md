@@ -80,6 +80,12 @@ import { reset } from 'styled-reset'
 
 All credit goes to Eric Meyer for reset.css. reset.css is public domain (unlicensed).
 
+## Patreon Sponsors
+
+This project is sponsored on [Patreon](https://www.patreon.com/zacanger) by:
+
+* [Keeley Hammond](https://github.com/VerteDinde)
+
 ## Contributors
 
 This project exists thanks to all the people who contribute. 
