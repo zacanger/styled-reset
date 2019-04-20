@@ -2,13 +2,11 @@
 
 [![npm version](https://img.shields.io/npm/v/styled-reset.svg)](https://npm.im/styled-reset) [![CircleCI](https://circleci.com/gh/zacanger/styled-reset.svg?style=svg)](https://circleci.com/gh/zacanger/styled-reset)
 [![Backers on Open Collective](https://opencollective.com/styled-reset/backers/badge.svg)](#backers) 
-[![Sponsors on Open Collective](https://opencollective.com/styled-reset/sponsors/badge.svg)](#sponsors) 
+[![Sponsors on Open Collective](https://opencollective.com/styled-reset/sponsors/badge.svg)](#sponsors) [![Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/zacanger)
 
-[reset.css](https://meyerweb.com/eric/tools/css/reset/) for
-[styled-components](https://github.com/styled-components/styled-components).
+Eric Meyer's [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) for [styled-components](https://github.com/styled-components/styled-components)
 
-Also see [styled-normalize](https://www.npmjs.com/package/styled-normalize)
-from [Sergey Sova](https://github.com/sergeysova).
+Also see [styled-normalize](https://www.npmjs.com/package/styled-normalize) from [Sergey Sova](https://github.com/sergeysova).
 
 --------
 
@@ -82,7 +80,6 @@ All credit goes to Eric Meyer for reset.css. reset.css is public domain (unlicen
 
 ## Patreon Sponsors
 
-[![Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/zacanger)
 
 This project is sponsored on [Patreon](https://www.patreon.com/zacanger) by:
 

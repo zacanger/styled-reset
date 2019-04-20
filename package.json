@@ -1,6 +1,6 @@
 {
   "name": "styled-reset",
-  "description": "Reset CSS for Styled Components",
+  "description": "Eric Meyer's Reset CSS for styled-components",
   "version": "2.0.7",
   "author": {
     "email": "zac@zacanger.com",
