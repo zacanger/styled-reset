@@ -78,7 +78,6 @@ All credit goes to Eric Meyer for reset.css. reset.css is public domain (unlicen
 
 ## Patreon Sponsors
 
-
 This project is sponsored on [Patreon](https://www.patreon.com/zacanger) by:
 
 * [Keeley Hammond](https://github.com/VerteDinde)
