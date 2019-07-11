@@ -1,5 +1,3 @@
-// @flow
-
 import { css, createGlobalStyle } from 'styled-components'
 
 export const reset = css`
