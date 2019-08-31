@@ -7,7 +7,7 @@
     "name": "Zac Anger",
     "url": "http://zacanger.com"
   },
-  "license": "MIT",
+  "license": "LGPL-3.0",
   "main": "lib/index.js",
   "files": [
     "index.d.ts",
