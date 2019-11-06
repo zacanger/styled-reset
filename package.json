@@ -58,5 +58,10 @@
   "peerDependencies": {
     "styled-components": ">=4.3.2"
   },
-  "typings": "index.d.ts"
+  "typings": "index.d.ts",
+  "funding": {
+    "type": "ko-fi",
+    "url": "https://ko-fi.com/zacanger"
+  }
+
 }
