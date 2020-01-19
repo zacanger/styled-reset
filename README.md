@@ -16,7 +16,7 @@ If you're on styled-components 3.x, please `npm i styled-reset@1.7.1`.
 
 ## Usage:
 
-### Styled Components 4.x
+### Styled Components 4.x || 5.x
 
 ```jsx
 import * as React from 'react'
