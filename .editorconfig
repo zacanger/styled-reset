@@ -3,22 +3,8 @@ root = true
 [*]
 end_of_line = LF
 charset = utf-8
-max_line_length = 120
+max_line_length = 80
 indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 indent_size = 2
-
-[*.{js,jsx}]
-max_line_length = 100
-
-[*.{css,less,sass,scss,styl}]
-max_line_length = 80
-
-[*.{vim,py}]
-indent_size = 4
-max_line_length = 80
-
-[*.md]
-trim_trailing_whitespace = false
-max_line_length = 80

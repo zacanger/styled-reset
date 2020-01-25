@@ -3,6 +3,10 @@
 Only notable changes will be recorded here. Most updates are updating dev
 dependencies or tweaking docs.
 
+## 4.1.0
+
+Switch to TypeScript
+
 ## 4.0.0
 
 * Switch to LGPL-3.0 license

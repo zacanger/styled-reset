@@ -1,5 +1,6 @@
 import { css, createGlobalStyle } from 'styled-components'
 
+// prettier-ignore
 export const reset = css`
 /* http://meyerweb.com/eric/tools/css/reset/
    v4.0 | 20180602
