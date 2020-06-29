@@ -13,11 +13,13 @@
   },
   "license": "LGPL-3.0",
   "main": "lib/index.js",
+  "module": "lib/esm/index.js",
+  "types": "lib/index.d.ts",
   "files": [
     "lib"
   ],
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && tsc -p tsconfig.esm.json",
     "format": "prettier --write *.js \"src/*.ts\"",
     "prebuild": "run-s -s test clean",
     "clean": "rm -rf lib && mkdir -p lib",
