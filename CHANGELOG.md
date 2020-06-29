@@ -3,6 +3,10 @@
 Only notable changes will be recorded here. Most updates are updating dev
 dependencies or tweaking docs.
 
+## 4.2.0
+
+Add module and types fields in package.json, with ESM build
+
 ## 4.1.0
 
 Switch to TypeScript
