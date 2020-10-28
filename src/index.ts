@@ -3,7 +3,7 @@ import { css, createGlobalStyle } from 'styled-components'
 // prettier-ignore
 export const reset = css`
 /* http://meyerweb.com/eric/tools/css/reset/
-   v4.0 | 20180602
+   v5.0.1 | 20191019
    License: none (public domain)
 */
 
@@ -13,7 +13,7 @@ a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
-dl, dt, dd, ol, ul, li,
+dl, dt, dd, menu, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
@@ -39,7 +39,7 @@ footer, header, hgroup, main, menu, nav, section {
 body {
   line-height: 1;
 }
-ol, ul {
+menu, ol, ul {
   list-style: none;
 }
 blockquote, q {
