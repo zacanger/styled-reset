@@ -1,3 +1,12 @@
+Addition to the LGPL-3.0:
+
+You may not use the code in this repository for the governments, military, or
+law enforcement of any NATO member; or in applications or platforms designed
+or intended for use by neo-Nazis, white supremacists, far-right conspiracy
+theorists (such as Q-Anon), or other similar right-wing groups.
+
+Below is the LGPL-3.0.
+
                    GNU LESSER GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
