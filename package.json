@@ -11,7 +11,7 @@
     "type": "ko-fi",
     "url": "https://ko-fi.com/zacanger"
   },
-  "license": "LGPL-3.0",
+  "license": "MIT",
   "main": "lib/index.js",
   "module": "lib/esm/index.js",
   "types": "lib/index.d.ts",
