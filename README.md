@@ -48,7 +48,7 @@ const App = () => (
     <GlobalStyle />
     <div>Hi, I'm an app!</div>
   </React.Fragment>
-}
+)
 
 export default App
 ```
