@@ -40,12 +40,12 @@
     "styled-components"
   ],
   "devDependencies": {
-    "@types/react": "17.0.0",
+    "@types/react": "18.0.14",
     "@types/styled-components": "5.1.25",
     "npm-run-all": "4.1.5",
-    "react": "17.0.1",
+    "react": "18.2.0",
     "sortpack": "2.3.0",
-    "styled-components": "4.4.1",
+    "styled-components": "5.3.5",
     "tap-spec": "5.0.0",
     "ts-standard": "11.0.0",
     "typescript": "4.7.4",
