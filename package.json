@@ -7,10 +7,6 @@
     "name": "Zac Anger",
     "url": "http://zacanger.com"
   },
-  "funding": {
-    "type": "ko-fi",
-    "url": "https://ko-fi.com/zacanger"
-  },
   "license": "MIT",
   "main": "lib/index.js",
   "module": "lib/esm/index.js",

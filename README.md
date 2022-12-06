@@ -1,6 +1,6 @@
 # styled-reset
 
-[![npm version](https://img.shields.io/npm/v/styled-reset.svg)](https://npm.im/styled-reset) [![CircleCI](https://circleci.com/gh/zacanger/styled-reset.svg?style=svg)](https://circleci.com/gh/zacanger/styled-reset) [![ko-fi](https://img.shields.io/badge/donate-KoFi-yellow.svg)](https://ko-fi.com/U7U2110VB)
+[![npm version](https://img.shields.io/npm/v/styled-reset.svg)](https://npm.im/styled-reset) [![CircleCI](https://circleci.com/gh/zacanger/styled-reset.svg?style=svg)](https://circleci.com/gh/zacanger/styled-reset)
 
 Eric Meyer's [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) for [styled-components](https://github.com/styled-components/styled-components)
 
