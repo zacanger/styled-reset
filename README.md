@@ -12,13 +12,11 @@ Also see [styled-normalize](https://www.npmjs.com/package/styled-normalize) from
 
 ## Installation:
 
-`npm i styled-reset` (use the `-S` flag if you're on npm 4 or earlier).
-
-If you're on styled-components 3.x, please `npm i styled-reset@1.7.1`.
+`npm i styled-reset`
 
 ## Usage:
 
-### Styled Components 4.x || 5.x
+### Styled Components 4+
 
 ```jsx
 import * as React from 'react'
